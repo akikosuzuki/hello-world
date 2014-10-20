@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-test
+githubを使って練習してみる
